@@ -1,0 +1,15 @@
+[1] Config.pm:311> INFO - This is Biber 2.16
+[1] Config.pm:314> INFO - Logfile is '/Users/maryobotros/Desktop/COMPS-Proposal/document.blg'
+[436] biber-darwin:340> INFO - === Fri May  6, 2022, 20:49:42
+[476] Biber.pm:415> INFO - Reading '/Users/maryobotros/Desktop/COMPS-Proposal/document.bcf'
+[977] Biber.pm:952> INFO - Found 5 citekeys in bib section 0
+[1050] Biber.pm:4340> INFO - Processing section 0
+[1101] Biber.pm:4531> INFO - Looking for bibtex format file 'references.bib' for section 0
+[1107] bibtex.pm:1689> INFO - LaTeX decoding ...
+[1127] bibtex.pm:1494> INFO - Found BibTeX data source 'references.bib'
+[1311] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1311] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1311] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1312] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[1334] bbl.pm:654> INFO - Writing '/Users/maryobotros/Desktop/COMPS-Proposal/document.bbl' with encoding 'UTF-8'
+[1340] bbl.pm:757> INFO - Output to /Users/maryobotros/Desktop/COMPS-Proposal/document.bbl
