@@ -1,16 +1,16 @@
 # Fdb version 3
-["biber /Users/maryobotros/Desktop/COMPS-Proposal/document"] 1651895378 "/Users/maryobotros/Desktop/COMPS-Proposal/document.bcf" "/Users/maryobotros/Desktop/COMPS-Proposal/document.bbl" "/Users/maryobotros/Desktop/COMPS-Proposal/document" 1651895618
-  "/Users/maryobotros/Desktop/COMPS-Proposal/document.bcf" 1651895617 108177 d3c115d4510298d84848e9205ba56ee8 "pdflatex"
+["biber /Users/maryobotros/Desktop/COMPS-Proposal/document"] 1651895378 "/Users/maryobotros/Desktop/COMPS-Proposal/document.bcf" "/Users/maryobotros/Desktop/COMPS-Proposal/document.bbl" "/Users/maryobotros/Desktop/COMPS-Proposal/document" 1651978293
+  "/Users/maryobotros/Desktop/COMPS-Proposal/document.bcf" 1651978280 108177 d3c115d4510298d84848e9205ba56ee8 "pdflatex"
   "references.bib" 1651786615 1497 e336d61ea524708b87b5eb9e6d7eab26 ""
   (generated)
   "/Users/maryobotros/Desktop/COMPS-Proposal/document.bbl"
   "/Users/maryobotros/Desktop/COMPS-Proposal/document.blg"
-["pdflatex"] 1651895615 "/Users/maryobotros/Desktop/COMPS-Proposal/document.tex" "/Users/maryobotros/Desktop/COMPS-Proposal/document.pdf" "document" 1651895618
-  "/Users/maryobotros/Desktop/COMPS-Proposal/document.aux" 1651895617 5742 d33f76c94992fed04a037a7e5fa7be41 "pdflatex"
+["pdflatex"] 1651978277 "/Users/maryobotros/Desktop/COMPS-Proposal/document.tex" "/Users/maryobotros/Desktop/COMPS-Proposal/document.pdf" "document" 1651978293
+  "/Users/maryobotros/Desktop/COMPS-Proposal/document.aux" 1651978280 5742 d33f76c94992fed04a037a7e5fa7be41 "pdflatex"
   "/Users/maryobotros/Desktop/COMPS-Proposal/document.bbl" 1651895383 6067 82f34822c06d7078aa265faab15f2bee "biber /Users/maryobotros/Desktop/COMPS-Proposal/document"
-  "/Users/maryobotros/Desktop/COMPS-Proposal/document.out" 1651895617 1718 f13cf55d95063354997a3ea8a50ec89e "pdflatex"
-  "/Users/maryobotros/Desktop/COMPS-Proposal/document.run.xml" 1651895617 2333 a755dca3b7eb3f1fc4dc3636b0169f59 "pdflatex"
-  "/Users/maryobotros/Desktop/COMPS-Proposal/document.tex" 1651895612 36699 f86659b29ae844cc3a010e015ec29354 ""
+  "/Users/maryobotros/Desktop/COMPS-Proposal/document.out" 1651978280 1718 f13cf55d95063354997a3ea8a50ec89e "pdflatex"
+  "/Users/maryobotros/Desktop/COMPS-Proposal/document.run.xml" 1651978280 2333 a755dca3b7eb3f1fc4dc3636b0169f59 "pdflatex"
+  "/Users/maryobotros/Desktop/COMPS-Proposal/document.tex" 1651978292 37636 16e5233ac44afb5e764d67dfa6371dbb ""
   "/Users/maryobotros/Desktop/COMPS-Proposal/graph.jpg" 1646645651 39550 13af870dc65a0694050b6a737f9b6310 ""
   "/Users/maryobotros/Desktop/COMPS-Proposal/oxycomps.sty" 1651782403 3179 b16237cccc21db85f3034ccb7a19d529 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -21,6 +21,7 @@
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1136768653 4524 6bce29db5bc272ba5f332261583fee9c ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm" 1136768653 2124 2601a75482e9426d33db523edf23570a ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm" 1136768653 1352 fa28a7e6d323c65ce7d13d5342ff6be2 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1136768653 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm" 1136768653 2680 312a2d12b1f1df8ee0212e7ba1962402 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm" 1136768653 2288 f478fc8fed18759effb59f3dad7f3084 ""
@@ -51,6 +52,7 @@
   "/usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/times/ptmb.vf" 1136768653 1512 03bea3d428ff1c50e235fb962d229d52 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf" 1136768653 1372 788387fea833ef5963f4c5bffe33eb89 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf" 1136768653 1380 0ea3a3370054be6da6acd929ec569f06 ""
+  "/usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf" 1136768653 3556 8a9a6dcbcd146ef985683f677f4758a6 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/times/ptmrc7t.vf" 1136768653 1948 7330aeef3af211edff3b35fb2c12a0fd ""
   "/usr/local/texlive/2021/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf" 1136768653 1384 a9d8adaf491ce34e5fba99dc7bbe5f39 ""
   "/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -126,6 +128,7 @@
   "/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1pcr.fd" 1137110629 985 1ed784d7bfe47179f3550d2303b073f8 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptm.fd" 1137110629 961 15056f4a61917ceed3a44e4ac11fcc52 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/times.sty" 1586716065 856 8e0e5c8cca7b18e0400f97f5a2b90a99 ""
+  "/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd" 1137110629 619 96f56dc5d1ef1fe1121f1cfeec70ee0c ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575674187 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "/usr/local/texlive/2021/texmf-dist/tex/latex/tools/verbatim.sty" 1601675358 7393 0d25b7703252c0e57705583c6e9127ec ""
@@ -136,9 +139,9 @@
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1643717981 2724745 7312ca3a035707234490d50c1c398ae6 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   (generated)
+  "/Users/maryobotros/Desktop/COMPS-Proposal/document.log"
   "/Users/maryobotros/Desktop/COMPS-Proposal/document.pdf"
+  "/Users/maryobotros/Desktop/COMPS-Proposal/document.bcf"
+  "/Users/maryobotros/Desktop/COMPS-Proposal/document.run.xml"
   "/Users/maryobotros/Desktop/COMPS-Proposal/document.aux"
   "/Users/maryobotros/Desktop/COMPS-Proposal/document.out"
-  "/Users/maryobotros/Desktop/COMPS-Proposal/document.run.xml"
-  "/Users/maryobotros/Desktop/COMPS-Proposal/document.bcf"
-  "/Users/maryobotros/Desktop/COMPS-Proposal/document.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.1)  6 MAY 2022 20:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.1)  7 MAY 2022 19:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -666,22 +666,31 @@ Overfull \hbox (38.86406pt too wide) in paragraph at lines 194--194
 Underfull \vbox (badness 3189) has occurred while \output is active []
 
  [5] [6]
-
-Package biblatex Warning: No driver for entry type 'msic'.
-(biblatex)                Using fallback driver on input line 248.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 243.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 1057) in paragraph at lines 250--251
+[]\OT1/ptm/m/n/10 July 31 - Au-gust 13: Project plan-ning/-make fun
+ []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
+
+Package biblatex Warning: No driver for entry type 'msic'.
+(biblatex)                Using fallback driver on input line 263.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
 []\OT1/ptm/m/n/10 Schiappa, Made-line.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
 \OT1/ptm/m/it/10 https://towardsdatascience.com/slam-intro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
 \OT1/ptm/m/it/10 fd833ef29e4e\OT1/ptm/m/n/10 . 2019. \OT1/ptm/m/sc/10 url\OT1/ptm/m/n/10 : []$\OT1/pcr/m/n/10 https : / /
  []
 
@@ -695,15 +704,15 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18012 strings out of 478994
- 300551 string characters out of 5858185
+ 18037 strings out of 478994
+ 300931 string characters out of 5858185
  1019010 words of memory out of 5000000
- 35247 multiletter control sequences out of 15000+600000
- 424006 words of font info for 72 fonts, out of 8000000 for 9000
+ 35268 multiletter control sequences out of 15000+600000
+ 424320 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,7n,89p,2025b,1419s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/maryobotros/Desktop/COMPS-Proposal/document.pdf (8 pages, 137320 bytes).
+Output written on /Users/maryobotros/Desktop/COMPS-Proposal/document.pdf (8 pages, 137846 bytes).
 PDF statistics:
  157 PDF objects out of 1000 (max. 8388607)
  140 compressed objects within 2 object streams
